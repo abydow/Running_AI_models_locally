@@ -33,7 +33,7 @@ still I need to find a openAI thinking model that works for me...
 ```
 ollama list
 ```
-## to learn ollama commands
+## To learn ollama commands
 ```
 ollama help 
 ```
